@@ -139,7 +139,3 @@ Open `http://localhost:5173` in your browser.
 - JSON export and copy to clipboard
 - Suggested first steps for each priority
 - User accounts so plans are private to each user
-
-## About This Project
-
-I built Unstuck as a three-hour project.
